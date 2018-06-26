@@ -1,0 +1,14 @@
+GOALS OF THIS PROJECT:
+
+  * This project has two major goals. 
+  ** The first is to provide an opportunity to learn C++ programming beyond just the syntax. 
+  ** The second is to create a working piece of freeware that acts as a guest tracking system
+     for students with guests that can run on a machine as small as a raspberry pi and can
+     interface with existing student identification technologies.
+     
+  * Each of these goals on their own are no easy task, and it will be a great challenge to 
+    design a system using top-down planning and to revise it as new skills are developed.
+    
+  * An end goal of this software is to attempt to implement it at Drexel University in Philadelphia
+    as a beta trial. Doing so would improve students' residence hall experience, generate 
+    good press for Drexel, and create a new publicly available piece of freeware.

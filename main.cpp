@@ -1,4 +1,7 @@
+#include <iostream>
+
 int main()
 {
-  return 0;
+	std::cout << "Let's make a great piece of software!";
+	return 0;
 }
