@@ -1,0 +1,1 @@
+//Generic resident class
